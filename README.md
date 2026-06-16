@@ -8,8 +8,9 @@ This Power BI dashboard analyzes data from multiple marketing channels such as S
 - KPI cards and summary visuals
 
 ## 📁 Final Dashboard 
-<img width="800" height="438" alt="Social Media Analytics Dashboard Image" src="https://github.com/user-attachments/assets/9b0aa367-5710-443f-92da-2c3955d474f7" />
 -`Social_Media_Dashboard.pbix`
+<img width="800" height="438" alt="Social Media Analytics Dashboard Image" src="https://github.com/user-attachments/assets/9b0aa367-5710-443f-92da-2c3955d474f7" />
+
 
 ## 📬 Contact
 Created by Varun Kumar  
